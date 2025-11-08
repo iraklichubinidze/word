@@ -15,7 +15,6 @@ passwords = [
     "football",
     "monkey",
     "letmein",
-    "696969",
     "shadow",
     "master",
     "666666",
@@ -57,3 +56,4 @@ passwords = [
     "starwars",
     "klaster"
 ]
+
